@@ -40,4 +40,4 @@ repos:
     hooks:
     -   id: mypy
         files: ^src/
-        args: []
+        args: [--no-strict-optional, --ignore-missing-imports]
