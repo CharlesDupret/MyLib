@@ -1,2 +1,5 @@
 requests>=2.26.0
+
+
+pre-commit
 sphinx
